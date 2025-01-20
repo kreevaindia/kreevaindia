@@ -11,10 +11,10 @@
         <img src="https://kreevaindia.com/images/lgogo2.svg" alt="Kreeva India Logo">
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="https://kreevaindia.com/">Home</a></li>
+                <li><a href="https://kreevaindia.com/about.php">About Us</a></li>
+                <li><a href="https://kreevaindia.com/project.php">Projects</a></li>
+                <li><a href="https://kreevaindia.com/contact.php">Contact</a></li>
             </ul>
         </nav>
     </header>
