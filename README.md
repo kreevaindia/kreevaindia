@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <img src="[assets/images/logo.png](https://kreevaindia.com/images/lgogo2.svg)" alt="Kreeva India Logo">
+        <img src="https://kreevaindia.com/images/lgogo2.svg" alt="Kreeva India Logo">
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
