@@ -20,7 +20,8 @@
     </header>
     <main>
         <h1>Welcome to Kreeva India</h1>
-        <p>KREEVA, a leading Real Estate Company in Delhi NCR and trusted Real Estate Developers in Delhi NCR, offers luxurious properties with exceptional craftsmanship. Each space is designed with meticulous detail, blending modern design with sustainability. Experience personalized, sustainable luxury because you deserve the best with KREEVA.
+        <p>KREEVA, a leading Real Estate Company in Delhi NCR and trusted <a href="https://kreevaindia.com/blog/">Real Estate Developers in Delhi NCR</a>
+, offers luxurious properties with exceptional craftsmanship. Each space is designed with meticulous detail, blending modern design with sustainability. Experience personalized, sustainable luxury because you deserve the best with KREEVA.
 </p>
     </main>
     <footer>
